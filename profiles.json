@@ -1,0 +1,12 @@
+{
+    "gen": {
+        "brightness": 50,
+        "color_temperature": 6500,
+        "break_time": 25
+    },
+    "ian": {
+        "brightness": 20,
+        "color_temperature": 6500,
+        "break_time": 25
+    }
+}
