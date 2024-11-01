@@ -1,4 +1,4 @@
-# Luminar-1.2
+# Luminar-1.4
 ## Overview
 
 This application is a desktop tool designed to manage and optimize screen usage and brightness based on various user-defined profiles and real-time image processing. It leverages a combination of computer vision, image processing, and user interaction to enhance user comfort and productivity.
