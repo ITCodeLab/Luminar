@@ -33,14 +33,14 @@ Place the following font files in the specified directories:
 2. From the main project directory, run:
 
    ```bash
-   python main1.py
+   python luminar.py
    ```
 
 ## File Structure
 
 ```plaintext
 Luminar/
-├── main1.py               # Main application script
+├── luminar.py               # Main application script
 ├── Italiana/              # Font directory for Italiana
 │   └── Italiana-Regular.ttf
 ├── Istok/                 # Font directory for Istok
